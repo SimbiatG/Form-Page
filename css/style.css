@@ -1,0 +1,52 @@
+
+//Helper class 
+body .layout{
+	height: 100%;
+	width: 100%;
+	color:  black;
+	opacity: 0.6;
+}
+
+.layout{
+	background-image: url('../images/ice-cone.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+/Main Style
+.logo{
+	float: left;
+}
+
+.list{
+	float: right;
+	text-decoration: none;
+	list-style: inline;
+}
+
+
+.formstyle{
+ width: 400px;
+ margin: 0px auto;
+ margin-top: 150px;
+
+ 
+}
+
+.formbgc:hover{
+	background-color: #bfbfbf;
+}
+.buttonbox{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+	
+}
+.formbgc{
+	width: 400px;
+	margin: auto;
+}
