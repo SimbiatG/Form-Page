@@ -1,0 +1,25 @@
+
+body .layout{
+	height: 100%;
+	width: 100%;
+}
+
+.layout{
+	background-color:#FDFFF6;
+}
+.services{
+	text-align: center;
+	margin-top: 30px;
+}
+.footer {
+  
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:#f8f9fa;
+  color: black;
+  text-align: center;
+  margin-top: 30px;
+}
+
+
